@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    width: 1100px;
+    align-content: center;
+}
+.title{
+    width: 1100px;
+    height: 20px;
+    margin:  0 auto;
+    margin-top: 80px;
+}
+.title span{
+    margin-left: 130px;
+}
+.add{
+    width: 70px;
+    height: 20px;
+    margin:  0 auto;
+    margin-right: 215px;
+}
+#top{
+    width: 1400px;
+    height: 70px;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+#top span{
+    font-size: 60px;
+}
+#right{
+    float: right;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+#middle{
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid rgb(198, 196, 194);
+    overflow-y: auto;
+    margin-top: 30px;
+}
+#cp{
+    width: 200px;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#inp{
+    width: 1100px;
+    height: 30px;
+    margin: 0 auto;
+}
+#inp input{
+    margin-left: 20px;
+}

@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+a{
+    color: blue;
+}
+.search span{
+    text-decoration: none;
+}
+.header{
+    width: 1450px;
+    margin: 0px auto;
+}
+.management{
+    height: 28px;
+    width: 220px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 20px;
+}
+.management a{
+    text-decoration: none;
+}
+.main{
+    position: relative;
+    width: 1450px;
+    height: 500px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+.main .top{
+    width: 420px;
+    height: 70px;
+    margin: 0px auto;
+}
+.main .top #price{
+    margin: 0px auto;
+    width: 255px;
+}
+.main .top #price input{
+    width: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.main .top #cart{
+    margin: 0px auto;
+    width: 170px;
+    margin-top: 2px;
+}
+.middle{
+    width: 100%;
+    height: 370px;
+}
+.framework{
+    height: 100%;
+    width: 300px;
+    margin-left: 47px;
+    float: left;
+    border: 2px solid rgb(236, 236, 236);
+    background-color: #faf9de;
+}
+.main .middle div img{
+ margin: auto;  
+ display: block;
+ clear: both;
+}
+.content{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.addButton{
+    text-align: center;
+    margin-top: 15px;
+}
+.but{
+    width: 50px;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.bottom{
+    width:630px;
+    height:50px;
+    margin:0 auto;
+    margin-top:10px
+}
+
+

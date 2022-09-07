@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    overflow-y: hidden;
+}
+#body{
+    width: 100%;
+    min-height: 760px;
+    background: url("registSuccess.png") no-repeat;
+    background-size: 100% 100%;
+}
+#body a{
+    text-decoration: none;
+    color: wheat;
+    font-size: 10px;
+    position: absolute;
+    top: 59%;
+    left: 45%;
+    border: 1px solid rgb(219, 179, 231);
+    border-radius: 15px;
+}

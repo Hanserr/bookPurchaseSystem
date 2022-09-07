@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: #0998de;
+}
+hr{
+    width: 1100px;
+    align-content: center;
+}
+.contain{
+    width: 1100px;
+    height: 20px;
+    margin:  0 auto;
+    margin-top: 20px;
+}
+.ID{
+    position: relative;
+    left: 8%;
+    width: 70px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.name{
+    position: relative;
+    left: 10%;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.price{
+    position: relative;
+    left: 13%;
+    width: 80px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.author{
+    position: relative;
+    left: 17%;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.sales{
+    position: relative;
+    left: 22%;
+    width: 70px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.stock{
+    position: relative;
+    left: 29%;
+    width: 70px;
+    height: 40px;
+    background-color: rgb(228, 247, 244);
+    float: left;
+}
+.title{
+    width: 1100px;
+    height: 20px;
+    margin:  0 auto;
+    margin-top: 80px;
+}
+.title span{
+    margin-left: 110px;
+}
+#top{
+    width: 1400px;
+    height: 70px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#top span{
+    font-size: 60px;
+}
+#right{
+    float: right;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+#middle{
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid rgb(198, 196, 194);
+    overflow-y: auto;
+    margin-top: 30px;
+}
+#cp{
+    width: 200px;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#operate{
+    float: right;
+    margin-right: 80px;
+}
+.search{
+    height: 50px;
+    width: 650px;
+    margin: 0 auto;
+}
